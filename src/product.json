@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Apple",
+        "price": 1.99,
+        "image": { "fields": { "file": { "url": "img/Apple.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "banana",
+        "price": 6.99,
+        "image": { "fields": { "file": { "url": "img/banana.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "kiwi",
+        "price": 2.99,
+        "image": { "fields": { "file": { "url": "img/kiwi.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "peach",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "img/peach.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "strawberry",
+        "price": 18.99,
+        "image": { "fields": { "file": { "url": "img/strawberry.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "watermelon",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "img/watermelon.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "blueberry",
+        "price": 25.99,
+        "image": { "fields": { "file": { "url": "img/blueberry.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "orange",
+        "price": 13.99,
+        "image": { "fields": { "file": { "url": "img/orange.jpeg" } } }
+      }
+    }
+  ]
+}
